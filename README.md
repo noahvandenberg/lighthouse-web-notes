@@ -10,4 +10,6 @@
 
 This repository contains all of the notes taken by [Noah V](https://github.com/noahvandenberg) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
 
-# Links
+## Table of Contents
+* Week 1
+  * Day 1
